@@ -1,0 +1,121 @@
+Income,Area,Employed,Home Owner,Make,Model,Gender,Age,Colour,Stolen
+12500,Urban,,N,Toyota,Auris,F,25,Yellow,N
+76300,R,Y,Y,BMW,3 series,Male,25,Black,Yes
+52340,Rural,N,Yes,Mercedes,C Class,F,25,Grey,1
+150600,Rural,Y,Y,BMW,3 series,F,19,White,Y
+50000,Rural,Yes,1,Volkswagon,Golf,Male,55,Black,Yes
+15000,Rural,Y,Yes,Peugeot,107,F,54,Yellow,N
+6550,U ,Y,No,Toyota,Avensis,Male,42,Red,N
+75430,R,Yes,1,BMW,3 series,F,32,Grey,Yes
+54350,Rural,No,N,Mercedes,C Class,Female,65,Black,Y
+42130,U,Y,Y,Ford,Kia,M,28,Red,No
+12340,u,Yes,Y,BMW,1 series,M,29,Blue,No
+63225,Urban,1,Yes,Mercedes,C Class,Male,41,Grey,1
+35600,r,Y,Y,Mercedes,C Class,F,34,Black,Y
+43250,Rural,N,Yes,BMW,3 Series,F,42,Grey,Yes
+38600,Rural,Yes,Y,BMW,3 Series,Male,45,Black,Y
+45000,R,N,Y,Merecedes,C Class,F,55,White ,1
+12300,r,N,No,Peugeot,207,M,23,White,0
+39860,Rural,N,Y,BMW,3 Series,Male,43,Black,Yes
+45500,Urban,1,Yes,Volkswagon,Golf,F,33,Black,No
+37250,R,Y,N,Mercedes,C Class,M,52,Black,1
+55230,R,1,Y,BMW,3 series,Female,23,Grey,Yes
+47980,Rural,Yes,Yes,Mercedes,C Class,F,26,White,Yes
+34560,U,N,Yes,Toyota,Prius,PNS,32,White,N
+43235,Urban,Yes,N,Toyota,Corolla,F,34,Blue,No
+52350,Rural,Y,Y,Mercedes,C Class,F,32,Black,Y
+43560,Rural,1,Yes,Mercedes,A  Class,Male,27,White,0
+38000,Rurak,0,Y,Mercedes,C Class,F,21,White,1
+54560,R,Y,Y,BMW,3 series,Male,32,Black,Yes
+46540,R,0,1,Audi,A4,M,54,Blue,0
+5450,r,Y,Yes,BMW,X5,M,21,Black,No
+95500,Rural,N,Y,Mercedes,C Class,Male,37,Grey,Y
+47650,R,N,Y,Mercedes,C Class,Female,45,Grey,Yes
+12345,R,Y,Y,Mercedes,C Class,F,23,White,0
+54000,Rural,N,Y,BMW,3 Series,Female,32,Black,1
+26525,Urban,N,Yes,Peugeot,107,Female,53,Yellow,N
+82300,Rural,Y,No,Audi,RS3,F,32,Red,N
+42000,r,N,1,Mercedes,C Class,F,24,White,Yes
+75250,Rural,N,N,Mercedes,C Class,Female,21,Grey,Y
+42000,Rural,Y,1,BMW,2 Series,Male,65,Pink,N
+39350,R,N,Yes,BMW,3 series,M,25,Black,Y
+76320,Rural,Y,Y,Audi,A3,M,19,Red,N
+52000,R,Y,Yes,BMW,3 Series,F,28,White,Yes
+45000,R,N,Y,Mercedes,C Class,Female,36,Grey,1
+12300,U,N,N,BMW,X5,F,35,Blue,N
+65200,Rural,Y,1,BMW,3 series,F,24,Black,1
+5500,Urban,N,Yes,Mercedes,C Class,Female,25,Black,N
+37650,Rural,Y,Y,Mercedes,C Class,Male,53,Black,Y
+11250,R,N,Y,Toyota,Prius,Male,25,Red,N
+0,R,N,Y,Seat,Leon,M,25,Green,0
+55600,Rural,N,Yes,Mercedes,C Class,Female,32,Grey,Yes
+46530,Rural,Yes,Y,BMW,3 series,F,32,Grey,Y
+22450,r,Y,1,Toyota,Prius,F,25,Pink,N
+8650,U,N,N,Toyota,Aygo,Male,21,Red,0
+37650,R,N,Yes,BMW,3 Series,M,25,White,1
+47650,Rural,Y,Yes,BMW,3 series,Female,34,Grey,Yes
+12345,Urban,N,N,Mercedes,A  Class,F,25,Red,No
+76300,Rural,Yes,Y,Mercedes,C Class,F,28,Grey,Yes
+12340,U,N,N,Audi,A1,M,28,Red,N
+150600,r,Y,Y,BMW,3 Series,Male,54,Black,Yes
+38900,R,Y,Y,Toyota,Prius,M,28,Red,0
+15000,u,No,N,Toyota,Prius,Male,65,Red,N
+86550,R,y,1,BMW,3 Series,F,45,Black,Y
+52000,Rural,Y,1,Mercedes,C Class,Male,35,Grey,Yes
+45000,Rural,Y,Yes,BMW,3 Series,Female,25,White,1
+12300,Urban,N,N,Fiat,Punto,M,18,Red,N
+35200,R,Y,Y,Peugeot,107,Female,25,Yellow,N
+12340,u,N,N,Citroen,C1,Male,26,Red,n
+63225,Rural,Yes,Y,BMW,3 Series,Male,43,White,Y
+32450,R,No,n,Peugeot,107,Male,25,Purple,0
+31240,Urban,N,Y,Toyota,Aygo,M,52,Green,No
+21500,U,Yes,N,Seat,Leon,Female,25,Red,N
+45050,R,Y,1,Audi,A4,F,43,Yellow,N
+11250,Urban,N,Y,Audi,A3,F,46,Blue,No
+74500,Rural,Yes,y,Mercedes,C Class,Male,23,White,Y
+156000,R,N,Y,BMW,3 series,Female,45,Black,1
+46530,U,N,N,Audi,A7,Male,21,Red,N
+42450,R,Y,Yes,Mercedes,C Class,PNS,27,Grey,Y
+56870,R,No,Y,BMW,3 series,M, ,Black,1
+45000,Rural,N,Y,Merecedes,C Class,Male,43,White ,1
+12300,Rural,N,Y,Peugeot,207,M,23,White,0
+53200,R,Y,Yes,BMW,3 Series,Female,34,Grey,Yes
+45500,Rural,1,Yes,Mercedes,C Class,F,33,Black,Y
+32250,Urban,Y,N,Fiat,Punto,M,52,Black,0
+15230,R,1,Y,Toyota,Corolla,Male,32,Blue,0
+48459,r,No,Yes,Mercedes,C Class,F,26,White,1
+34560,U,N,Yes,Toyota,Prius,PNS,32,White,No
+43235,Urban,Yes,Y,Toyota,Prius,F,34,Blue,No
+43250,Rural,Y,Y,Peugeot,107,F,34,Black,N
+43560,Rural,1,Yes,Mercedes,C Class,Male,27,White,1
+12500,Urban,,N,Toyota,Auris,F,25,Yellow,N
+75300,Rural,Yes,Y,BMW,3 series,Male,25,Black,Yes
+12340,R,N,Y,Mercedes,C Class,F,25,Grey,1
+150600,Rural,Y,Y,BMW,,F,19,White,N
+43000,Rural,Yes, ,Peugeot,107,Male,55,Black,No
+5000,R,Y,Yes,Peugeot,107,F,54,Yellow,N
+46550,Urban,Y,No,Toyota,Prius,Male,32,Red,N
+78450,R,Y,1,BMW,3 series,PNS,32,Grey,Yes
+54350,Rural,No,Y,BMW,3 series,Female,45,Black,Y
+42130,R,Y,Y,Ford,Kia,M,28,Red,No
+52340,Rural,No,Y,BMW,2 Series,M,54,Grey,N
+63225,Urban,1,Yes,Mercedes,C Class,Male,32,Grey,Yes
+43000,r,No,Y,Mercedes,C Class,F,42,White,Y
+54350,U,N,Y,BMW,3 Series,F,23,Black,0
+39600,Rural,Yes,Y,BMW,3 Series,Male,45,Black,Y
+45000,Rural,Yes,Y,Merecedes,C Class,M,32,Grey,Yes
+12300,r,N,No,Peugeot,207,M,23,White,0
+55200,R,N,Y,BMW,3 Series,F,27,White,Yes
+45500,Urban,1,Yes,Volkswagon,Polo,F,33,Black,No
+32250,Urban,Y,N,Peugeot,107,M,52,Black,0
+64230,R,1,Y,BMW,3 series,Male,32,White,Yes
+47980,Rural,N,Yes,Mercedes,C Class,Male,43,Black,1
+3560,U,N,Yes,Toyota,Prius,PNS,32,White,0
+43235,Urban,No,N,Toyota,Corolla,M,34,Pink,No
+52350,Rural,No,Y,Peugeot,307,PNS,32,Black,N
+43560,Rural,1,Yes,Mercedes,C Class,Male,27,White,1
+41230,Rural,No,Yes,Mercedes,C Class,M,37,White,1
+54560,R,No,Y,BMW,2 Series,Female,32,Yellow,No
+46540,R,0,1,Fiat,Punto,M,32,Red,No
+5450,r,Y,Yes,Volkswagon,Polo,F,54,Black,0
+84500,Urban,Yes,Y,BMW,3 series,M,32,Grey,No

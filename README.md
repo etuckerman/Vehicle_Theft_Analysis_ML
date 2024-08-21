@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Repository
+# Vehicle Theft Analysis with Supervised and Unsupervised Machine Learning Algorithms Repository
 
 This repository contains code and data for exploring machine learning algorithms applied to a dataset named `cwdata.csv`. The dataset contains the following features with corresponding labels:
 
